@@ -1,0 +1,140 @@
+// Font
+@font-face {
+  font-family: 'opensans';
+  src: url('./assets/fonts/opensans_regular/OpenSans-Regular-webfont.eot');
+  src: url('./assets/fonts/opensans_regular/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/opensans_regular/OpenSans-Regular-webfont.woff') format('woff'),
+       url('./assets/fonts/opensans_regular/OpenSans-Regular-webfont.ttf') format('truetype'),
+       url('./assets/fonts/opensans_regular/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'opensans_light';
+  src: url('./assets/fonts/opensans_light/OpenSans-Light-webfont.eot');
+  src: url('./assets/fonts/opensans_light/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/opensans_light/OpenSans-Light-webfont.woff') format('woff'),
+       url('./assets/fonts/opensans_light/OpenSans-Light-webfont.ttf') format('truetype'),
+       url('./assets/fonts/opensans_light/OpenSans-Light-webfont.svg#open_sanslight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'opensans_bold';
+  src: url('./assets/fonts/opensans_bold/OpenSans-Bold-webfont.eot');
+  src: url('./assets/fonts/opensans_bold/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('./assets/fonts/opensans_bold/OpenSans-Bold-webfont.woff') format('woff'),
+       url('./assets/fonts/opensans_bold/OpenSans-Bold-webfont.ttf') format('truetype'),
+       url('./assets/fonts/opensans_bold/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+// Defaults
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overscroll-behavior: contain;
+  font-family: 'opensans', sans-serif !important;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 200vh;
+}
+
+button {
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.font-openSans{
+  font-family: 'opensans', sans-serif !important;
+  *{
+    font-family: 'opensans', sans-serif !important;
+  }
+}
+.font-openSans-light{
+  font-family: 'opensans_light' , sans-serif !important;
+}
+.font-openSans-bold{
+  font-family: 'opensans_bold' , sans-serif !important;
+}
+
+.one-line-text {
+  display: block;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+}
+.two-line-text {
+  display: block;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-transparent{
+  background: transparent;
+  box-shadow: none !important;
+}
+.nowrap{
+  white-space: nowrap !important;
+}
+
+// Scroll Bar
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #cccccc;
+  border-radius: 10px;
+}
+
+

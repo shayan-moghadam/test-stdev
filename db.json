@@ -1,0 +1,353 @@
+{
+  "catagories": [
+    {
+      "id": 1,
+      "name": "Fashion & Life"
+    },
+    {
+      "id": 2,
+      "name": "Life Style"
+    },
+    {
+      "id": 3,
+      "name": "Travel"
+    },
+    {
+      "id": 4,
+      "name": "Others"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "name": "Improve",
+      "title": "How To Improve The Way You Skills Set Before Christmas",
+      "text": "Peaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum",
+      "author": "Ewrin Jonson",
+      "date": "Mar 12 2021",
+      "catagoryId": 1,
+      "image": "https://api.noudeveloper.com/uploads/thumb_16_2190e2a973.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Success",
+      "title": "One Simple Word To Success",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa delectus enim esse, nulla quam quos. Cumque dignissimos dolore dolorem dolores explicabo maxime natus nihil nisi perferendis, placeat quae qui vel? Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit",
+      "author": "John Dean",
+      "date": "Jan 22 2020",
+      "catagoryId": 4,
+      "image": "https://api.noudeveloper.com/uploads/thumb_18_642904dc77.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spend",
+      "title": "How To Spend your time",
+      "text": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit",
+      "author": "Alex Lewis",
+      "date": "Feb 10 2021",
+      "catagoryId": 2,
+      "image": "https://api.noudeveloper.com/uploads/thumb_17_9480756c84.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mind",
+      "title": "Read This To Change How You Mind",
+      "text": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit",
+      "author": "Ewrin Jonson",
+      "date": "Jul 25 2019",
+      "catagoryId": 3,
+      "image": "https://api.noudeveloper.com/uploads/thumb_20_792f15c882.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Genius",
+      "title": "Discover Your Inner Genius To Better",
+      "text": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio",
+      "author": "Alex Lewis",
+      "date": "Aug 05 2020",
+      "catagoryId": 1,
+      "image": "https://api.noudeveloper.com/uploads/thumb_19_af7ee7e31a.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Think",
+      "title": "Smart People Think To Get Ahead",
+      "text": "Peaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum",
+      "author": "Sarah Newton",
+      "date": "Mar 15 2018",
+      "catagoryId": 3,
+      "image": "https://api.noudeveloper.com/uploads/thumb_15_7a0701f1a6.jpg"
+    },
+    {
+      "id": 0.6651383676295706,
+      "author": "test2 setets",
+      "date": "Nov 23, 2021",
+      "image": "https://api.noudeveloper.com/uploads/thumb_14_1952b28b36.jpg"
+    },
+    {
+      "id": 0.3387181581562726,
+      "author": "test2 setets",
+      "date": "Nov 23, 2021",
+      "image": "https://api.noudeveloper.com/uploads/thumb_14_1952b28b36.jpg"
+    },
+    {
+      "id": 0.8935696483382245,
+      "name": "tset",
+      "title": "setste",
+      "text": "sette",
+      "catagoryId": 3,
+      "date": "Nov 23, 2021",
+      "author": "test2 setets",
+      "image": "https://api.noudeveloper.com/uploads/thumb_14_1952b28b36.jpg"
+    },
+    {
+      "id": 0.9309604069742441,
+      "name": "test 2",
+      "title": "tesh Article 2",
+      "text": "this is atest",
+      "catagoryId": 3,
+      "date": "Nov 23, 2021",
+      "author": "test2 setets",
+      "image": "https://api.noudeveloper.com/uploads/thumb_14_1952b28b36.jpg"
+    },
+    {
+      "id": 0.4231640265438803,
+      "name": "test 3 ",
+      "title": "this is a  est 23",
+      "text": "tsetsetsetsetsetestet",
+      "catagoryId": 2,
+      "date": "Nov 23, 2021",
+      "author": "test2 setets",
+      "image": "https://api.noudeveloper.com/uploads/thumb_14_1952b28b36.jpg"
+    },
+    {
+      "id": 0.2567503310351602,
+      "name": "NEW ARTICEL",
+      "title": "TEST",
+      "text": "SETSSSSSSSSSSSSSSSSSSSSSSS",
+      "catagoryId": 2,
+      "date": "Nov 23, 2021",
+      "author": "test2 setets",
+      "image": "https://api.noudeveloper.com/uploads/thumb_14_1952b28b36.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Cras id nulla at metus congue auctor. Suspendisse auctor dictum orci quis interdum.",
+      "postId": 0,
+      "author": "Ewrin Jonson",
+      "date": "Mar 12 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/2.jpg"
+    },
+    {
+      "id": 2,
+      "body": "Cras id nulla at metus congue auctor. Suspendisse auctor dictum orci quis interdum.",
+      "postId": 0,
+      "author": "John Dean",
+      "date": "Jan 22 2020",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 3,
+      "body": "Cras id nulla at metus congue auctor. Suspendisse auctor dictum orci quis interdum.",
+      "postId": 0,
+      "author": "Alex Lewis",
+      "date": "Feb 10 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/6.jpg"
+    },
+    {
+      "id": 4,
+      "body": "Cras id nulla at metus congue auctor. Suspendisse auctor dictum orci quis interdum.",
+      "postId": 0,
+      "author": "Sarah Newton",
+      "date": "Mar 15 2018",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/1.jpg"
+    },
+    {
+      "id": 5,
+      "body": "Cras id nulla at metus congue auctor. Suspendisse auctor dictum orci quis interdum.",
+      "postId": 0,
+      "author": "Alex Lewis",
+      "date": "Aug 05 2020",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/4.jpg"
+    },
+    {
+      "id": 0.20453902346245356,
+      "body": "tset",
+      "postId": 0.20453902346245356,
+      "author": "tset",
+      "date": "2021-11-22T19:05:58.473Z",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.14185427622189883,
+      "body": "testttsttt",
+      "postId": 0.14185427622189883,
+      "author": "test",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.7860256486582138,
+      "body": "etetetestet",
+      "postId": 0.7860256486582138,
+      "author": "tset2",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.005141330806356148,
+      "body": "testset",
+      "postId": 0.005141330806356148,
+      "author": "tset9",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.2726143126996914,
+      "body": "test commentttttttt",
+      "postId": 0.2726143126996914,
+      "author": "thest commnet",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.6376310106375407,
+      "body": "stesettes",
+      "postId": 0.6376310106375407,
+      "author": "teset commnet",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.6482578496841112,
+      "body": "stesettes",
+      "postId": 0.6482578496841112,
+      "author": "teset commnet",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.7046898912810948,
+      "body": "testst",
+      "postId": 0.7046898912810948,
+      "author": "test",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.2688703924399467,
+      "body": "setste",
+      "author": "stet",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.7065728506735067,
+      "body": "15",
+      "postId": 1,
+      "author": "tseestset15",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.6041082133385105,
+      "body": "tseteet",
+      "author": "testset",
+      "date": "Nov 22, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    },
+    {
+      "id": 0.6767189576810835,
+      "body": "tsetsste2",
+      "postId": 0.9309604069742441,
+      "author": "test",
+      "date": "Nov 23, 2021",
+      "image": "http://pantera-react.diaryforlife.info/static/img/user/3.jpeg"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "123456"
+    },
+    {
+      "firstName": "test3",
+      "lastName": "test family",
+      "email": "test2@gmail.com",
+      "password": "$2a$10$65onWWE47QqlqKdoTXmR4eIvkuzQBbLMzlqig8jkwYKncdcRaFk0S",
+      "id": 0.8228699595789961
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$bsPi69WAYuQZ3rBeQ25fu.dYn5rz524Ep7qQ7h1YjeFmHNA140ZEu",
+      "id": 0.9965634070079137,
+      "firstName": "test",
+      "lastName": "setset"
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$6VXdI0QHZsh6a//VIUnYnutBULKBjSFABV3WaGigGirrF.6KkcFLK",
+      "id": 0.9848564094288019,
+      "firstName": "test",
+      "lastName": "tset2"
+    },
+    {
+      "email": "test5@gmail.com",
+      "password": "$2a$10$MH7AM8NVBtLHNGin2BsKCOL91nW3F4tqrqFuYzI9ZTuywAndHATCa",
+      "id": 0.7044485431419822,
+      "firstName": "test",
+      "lastName": "tset"
+    },
+    {
+      "email": "test8@gmail.com",
+      "password": "$2a$10$xyXAkewcYQ7dJRQ18kK64Oos.QnBUH4deUlDDujSeKjQFjbzkjenK",
+      "id": 0.6903405009294976,
+      "firstName": "test",
+      "lastName": "tset"
+    },
+    {
+      "email": "test9@gmail.com",
+      "password": "$2a$10$iNCpI3C0SUEbChjTFDu2xu4M.UEtAmfTqMui4x3WiG/RCeKOTjSAq",
+      "id": 0.9341947257338938,
+      "firstName": "teste",
+      "lastName": "setet"
+    },
+    {
+      "email": "test10@gmail.com",
+      "password": "$2a$10$oa0ZUlRo2gqwl303WIeCG.lI5OLWLaOo1hFFBeeOQE1B5HaF6EFGi",
+      "id": 0.26193368514809157,
+      "firstName": "test",
+      "lastName": "setset"
+    },
+    {
+      "email": "test11@gmail.com",
+      "password": "$2a$10$SSPTnIrbMWWu..8uCQB06e6XY79sOU/ejHFv4CGIqYVSxSywHY9DK",
+      "id": 0.24574033724233146,
+      "firstName": "test",
+      "lastName": "tset"
+    },
+    {
+      "email": "test12@gmail.com",
+      "password": "$2a$10$n3zzIsFMI7AZIF94b.WrSOSDStCyzyKQrnAg1iTQW5rbnPv/N0GcS",
+      "id": 0.8886903164546485,
+      "firstName": "rtest",
+      "lastName": "tset"
+    },
+    {
+      "email": "test13@gmail.com",
+      "password": "$2a$10$AbcPZcm/7m6NeY6JPqWOUOwX2Q8MiBKI9wFsq1PhYbepAyEo9D/Da",
+      "id": 0.9227862813580003,
+      "firstName": "setset",
+      "lastName": "setset"
+    },
+    {
+      "email": "test14@gmail.com",
+      "password": "$2a$10$93OBPjA2uOKhYh0iu7raL.Sh8tV7MiUpBy8HKTMbumbg2bJQMKfAq",
+      "id": 0.846785076971148,
+      "firstName": "test",
+      "lastName": "tset"
+    }
+  ]
+}
