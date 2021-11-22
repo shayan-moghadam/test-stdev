@@ -10,7 +10,6 @@ export const { sagaFetchActions, actions, reducer } = new SharedReducer(
 
 export function* watchPostArticle({ payload }) {
   const { id, name, title, text, catagoryId, date, author, image } = payload;
-  console.log(payload);
   try {
     const { data, status } = yield axios.post(`${baseUrl}/posts`, {
       id,

@@ -43,9 +43,6 @@ export default function Home() {
     }
   }, [postsData]);
 
-  console.log(popularData);
-  console.log(recentData);
-
   // Search Filter
   const searchHandler = (value) => {
     setpopularData(null);

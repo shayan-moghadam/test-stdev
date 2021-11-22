@@ -36,10 +36,6 @@ export default function Login() {
         password: data.get("password"),
       })
     );
-    console.log({
-      email: data.get("email"),
-      password: data.get("password"),
-    });
   };
 
   return (
