@@ -6,9 +6,11 @@ import "./LayoutStyles.scss";
 export default function Layout(props) {
   const { children } = props;
   const location = useLocation();
-  const isShowHeaderAndFooter = !["/pageNotFound", "/login"].includes(
-    location?.pathname
-  );
+  const isShowHeaderAndFooter = ![
+    "/pageNotFound",
+    "/login",
+    "/signUp",
+  ].includes(location?.pathname);
   // Change Theme Nav Base On Page
   let isColoredNav = ["/profile", "/write"].includes(location?.pathname);
   if (location?.pathname.includes("/post")) isColoredNav = true;
