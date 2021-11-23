@@ -18,6 +18,10 @@ export default function Profile() {
     if (Object.entries(profile?.form).length !== 0) setUser(profile?.form);
   }, [profile]);
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <Box
       component="main"

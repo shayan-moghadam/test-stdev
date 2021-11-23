@@ -53,7 +53,6 @@ export default function WriteComment({ CommentHandler }) {
               fullWidth
               id="name"
               label="Name"
-              autoFocus
               onChange={() => setErrorName(false)}
               error={errorName}
               helperText={errorName ? "Required" : ""}
