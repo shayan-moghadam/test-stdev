@@ -6,6 +6,7 @@ import Commnets from "../../components/Comments/Comments";
 import "./ViewPostStyles.scss";
 import { actions as getComments } from "../../store/actions/comments/watch-get-comments";
 import { actions as writeComment } from "../../store/actions/comments/watch-write-comment";
+import { actions as getPosts } from "../../store/actions/posts/watch-get-posts";
 
 export default function ViewPost() {
   const hitAction = useHitAction();
@@ -59,6 +60,7 @@ export default function ViewPost() {
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    hitAction(getPosts.fetch());
     hitAction(getComments.fetch());
   }, []);
 
